@@ -47,4 +47,4 @@ Annotations refer to additional information added to data points or visualizatio
 These approaches can be used independently or in combination to derive meaningful insights and support data-driven decision-making.
 
 Project URL:
-https://public.tableau.com/authoring/SalesDashboard_17225133371510/SuperDescriptive#1
+(https://public.tableau.com/app/profile/avi.bhardwaj6793/viz/SalesDashboard_17225133371510/SuperDescriptive)
