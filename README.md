@@ -1,4 +1,4 @@
-# Tableau_Dashboard_01_Salesstore
+# Dashboard for Sales Store
 This is a dashboard on Sales of a dummy store. This dataset is provided free by microsoft. It contains:
 - Order details
 - Return details
