@@ -1,4 +1,4 @@
-# Dashboard for Sales Store
+# Dashboard for Sales Tracking for Chain of Stores
 This is a dashboard on Sales of a dummy store. This dataset is provided free by microsoft. It contains:
 - Order details
 - Return details
